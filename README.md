@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TU-USUARIO-DE-GITHUB&label=Visitas%20al%20perfil&color=0047AB&style=plastic" alt="LuisEscobar" height=25px width=180px/> 
+	<img src="https://komarev.com/ghpvc/?username=luiguie3333&label=Visitas%20al%20perfil&color=0047AB&style=plastic" alt="LuisEscobar" height=25px width=180px/> 
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🔗 Conecta conmigo  
 
 <p align="center">
-	<a href="https://github.com/TU-USUARIO-DE-GITHUB"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/luiguie3333"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/esc___esc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
@@ -46,8 +46,8 @@
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" height="200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight&locale=es" alt="Top Lenguajes" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luiguie3333&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiguie3333&layout=compact&theme=tokyonight&locale=es" alt="Top Lenguajes" height="200px"/>
 </p>
 
 ---
@@ -55,5 +55,5 @@
 ## 🐍 Mi actividad en GitHub  
 
 <p align="center">
-	<img src="https://github.com/TU-USUARIO-DE-GITHUB/TU-USUARIO-DE-GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+	<img src="https://github.com/luiguie3333/luiguie3333/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
